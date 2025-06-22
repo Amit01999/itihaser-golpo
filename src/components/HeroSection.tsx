@@ -119,6 +119,11 @@ const HeroSection = () => {
             </div>
           </div>
         </div>
+        <div className=" mt-10 text-center">
+          <span className="text-maroon font-semibold text-lg">
+            This website is under development. Stay tuned for more updates!
+          </span>
+        </div>
       </div>
     </section>
   );
